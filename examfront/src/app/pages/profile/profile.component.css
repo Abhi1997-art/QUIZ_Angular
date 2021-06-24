@@ -1,0 +1,21 @@
+.container h1{
+    font-variant: small-caps;
+}
+
+.table{
+    width:100%;
+    border-collapse:collapse ;
+    
+}
+
+.table tr td{
+    padding: 10px 20px;
+    border: 2px solid #e2e2e2;
+}
+
+.table td{
+    font-weight: 400;
+    font-size: 17px;
+    
+
+}
